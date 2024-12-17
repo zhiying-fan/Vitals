@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'Vitals_Example' do
+  pod 'Vitals', :path => '../'
+
+  target 'Vitals_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
