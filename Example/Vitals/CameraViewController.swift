@@ -33,7 +33,7 @@ class CameraViewController: UIViewController {
   private var isSessionRunning = false
   
   private var flagCaching = false
-  private let cacheSolution = Vitals.shared.getSolution(callbackQueue: DispatchQueue.main)
+  private let cacheSolution = VitalsSDK.shared.getSolution(callbackQueue: DispatchQueue.main)
   private var timer: Timer?
   private var progress = 0.0
   

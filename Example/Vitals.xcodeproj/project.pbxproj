@@ -11,12 +11,13 @@
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
-		65EAB3CE1A47CD126D137AB5 /* libPods-Vitals_Example.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A59A5792EDE84AEEEC635488 /* libPods-Vitals_Example.a */; };
 		CEEEAB5E2D1218D000E0CB00 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEEAB5D2D1218D000E0CB00 /* CameraViewController.swift */; };
 		CEEEAB602D12194600E0CB00 /* CameraFeedService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEEAB5F2D12194600E0CB00 /* CameraFeedService.swift */; };
+		F145FB61E40B3A7073707068 /* Pods_Vitals_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23779BD1CCF7652FB5336B83 /* Pods_Vitals_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		23779BD1CCF7652FB5336B83 /* Pods_Vitals_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Vitals_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D6C3FEB42220C2C6937EE50 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		478A9F21BA6943718B4196CC /* Pods-Vitals_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vitals_Example.release.xcconfig"; path = "Target Support Files/Pods-Vitals_Example/Pods-Vitals_Example.release.xcconfig"; sourceTree = "<group>"; };
 		4F8B11862BE6B9F06B0A5ABE /* libPods-Vitals_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Vitals_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -29,7 +30,6 @@
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		A59A5792EDE84AEEEC635488 /* libPods-Vitals_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Vitals_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEEEAB5D2D1218D000E0CB00 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		CEEEAB5F2D12194600E0CB00 /* CameraFeedService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraFeedService.swift; sourceTree = "<group>"; };
 		EDB082BDA1398363C345AE17 /* Vitals.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Vitals.podspec; path = ../Vitals.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -41,7 +41,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				65EAB3CE1A47CD126D137AB5 /* libPods-Vitals_Example.a in Frameworks */,
+				F145FB61E40B3A7073707068 /* Pods_Vitals_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,8 +130,8 @@
 		6E5FC690D05DCBF9E6AC3DCF /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				A59A5792EDE84AEEEC635488 /* libPods-Vitals_Example.a */,
 				4F8B11862BE6B9F06B0A5ABE /* libPods-Vitals_Tests.a */,
+				23779BD1CCF7652FB5336B83 /* Pods_Vitals_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -147,7 +147,6 @@
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
-				142AAEA27EA99F39E2DA8091 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -208,24 +207,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		142AAEA27EA99F39E2DA8091 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-Vitals_Example/Pods-Vitals_Example-frameworks.sh",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/Vitals/VitalsFFI.framework/VitalsFFI",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/VitalsFFI.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Vitals_Example/Pods-Vitals_Example-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 		65005D7DDD7E9A58D8A928FB /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

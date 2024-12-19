@@ -22,18 +22,14 @@ TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/zhiying-fan/Vitals'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhiying-fan' => 'fanzhiying1992@gmail.com' }
-  s.source           = { :git => 'https://github.com/zhiying-fan/Vitals.git', :branch => 'main' }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :http => 'https://github.com/zhiying-fan/Vitals/releases/download/0.0.1/Vitals.xcframework.zip' }
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = 'Vitals/Classes/**/*'
-
   s.static_framework = true
-  s.vendored_frameworks = 'VitalsFFI.xcframework'
-  s.frameworks = 'AVFoundation'
+  s.vendored_frameworks = 'Vitals.xcframework'
+  
   s.dependency 'MediaPipeTasksVision', '0.10.14'
 end

@@ -1,0 +1,6 @@
+framework module Vitals {
+  umbrella header "Vitals.h"
+  export *
+
+  module * { export * }
+}
