@@ -1,0 +1,63 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios13-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name VitalsFFI
+import AVFoundation
+import Foundation
+import MediaPipeTasksVision
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public enum VitalsError : Swift.Error {
+  case illegalArgument(message: Swift.String)
+  case authIllegalArgument(message: Swift.String)
+  case authBadStatus(message: Swift.String)
+  case authDenied
+  case analyzerFail
+  case analyzeNoEnoughData(message: Swift.String)
+  case analyzeIllegalState(message: Swift.String)
+  case solutionIllegalState(message: Swift.String)
+  case netFail
+  case netInvalidStatusCode
+  case netInvalidResponseCode
+  case netInvalidBody
+  case netParseBodyFail
+}
+extension VitalsFFI.VitalsError : Foundation.LocalizedError {
+  public var errorDescription: Swift.String? {
+    get
+  }
+}
+public struct MeasureResult : Swift.Decodable {
+  public var description: Swift.String {
+    get
+  }
+  public init(from decoder: any Swift.Decoder) throws
+}
+final public class CacheSolution {
+  public typealias AnalyzeCompletion = (Swift.Result<VitalsFFI.MeasureResult, VitalsFFI.VitalsError>) -> Swift.Void
+  public init(callbackQueue: Dispatch.DispatchQueue)
+  final public func getTimeout() -> Swift.Int
+  final public func setTimeout(timeoutMs: Swift.Int) throws
+  final public func create(completion: @escaping (VitalsFFI.VitalsError?) -> ())
+  final public func postFrame(sampleBuffer: CoreMedia.CMSampleBuffer, frameTimestamp: Swift.Double)
+  final public func analyze(completion: @escaping VitalsFFI.CacheSolution.AnalyzeCompletion)
+  final public func release(completion: @escaping (VitalsFFI.VitalsError?) -> ())
+  @objc deinit
+}
+extension UIKit.UIImage.Orientation {
+  public static func from(deviceOrientation: UIKit.UIDeviceOrientation) -> UIKit.UIImage.Orientation
+}
+@_hasMissingDesignatedInitializers final public class VitalsSDK {
+  public static let shared: VitalsFFI.VitalsSDK
+  final public func initialize(vitalsInitOption: VitalsFFI.VitalsInitOption, vitalsConfig: VitalsFFI.VitalsConfig? = nil) async throws
+  final public func getSolution(callbackQueue: Dispatch.DispatchQueue) -> VitalsFFI.CacheSolution
+  @objc deinit
+}
+public struct VitalsInitOption {
+  public init(serverURL: Swift.String, outUserID: Swift.String, appID: Swift.String, timestamp: Swift.Int, sign: Swift.String)
+}
+public struct VitalsConfig {
+  public init(enableLog: Swift.Bool, logDirectoryPath: Swift.String?)
+}

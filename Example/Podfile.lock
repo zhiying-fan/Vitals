@@ -1,0 +1,27 @@
+PODS:
+  - MediaPipeTasksCommon (0.10.14)
+  - MediaPipeTasksVision (0.10.14):
+    - MediaPipeTasksCommon (= 0.10.14)
+  - Vitals (0.1.0):
+    - MediaPipeTasksVision (= 0.10.14)
+
+DEPENDENCIES:
+  - Vitals (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MediaPipeTasksCommon
+    - MediaPipeTasksVision
+
+EXTERNAL SOURCES:
+  Vitals:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MediaPipeTasksCommon: 5660099c2dd81f7ac4a7a5f51055785ead8e0e64
+  MediaPipeTasksVision: 0fac0db83c0b45e4d7811a9227be5e571403cf83
+  Vitals: 574c27a723e28b4d0578e87a0d02de80cd6567f4
+
+PODFILE CHECKSUM: 8c68e351b0642db293d3c1d144ca5d64a2139a65
+
+COCOAPODS: 1.15.2

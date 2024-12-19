@@ -25,18 +25,15 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhiying-fan' => 'fanzhiying1992@gmail.com' }
-  s.source           = { :git => 'https://github.com/zhiying-fan/Vitals.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zhiying-fan/Vitals.git', :branch => 'main' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'Vitals/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'Vitals' => ['Vitals/Assets/*.png']
-  # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.static_framework = true
+  s.vendored_frameworks = 'VitalsFFI.xcframework'
+  s.frameworks = 'AVFoundation'
+  s.dependency 'MediaPipeTasksVision', '0.10.14'
 end
