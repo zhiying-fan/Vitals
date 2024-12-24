@@ -7,19 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4851CFF62D19A3FA00AF1B8B /* face_landmarker.task in Resources */ = {isa = PBXBuildFile; fileRef = 4851CFF52D19A3FA00AF1B8B /* face_landmarker.task */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		CEEEAB5E2D1218D000E0CB00 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEEAB5D2D1218D000E0CB00 /* CameraViewController.swift */; };
 		CEEEAB602D12194600E0CB00 /* CameraFeedService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEEEAB5F2D12194600E0CB00 /* CameraFeedService.swift */; };
-		F145FB61E40B3A7073707068 /* Pods_Vitals_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23779BD1CCF7652FB5336B83 /* Pods_Vitals_Example.framework */; };
+		DFB60575D547480EB2B6F261 /* Pods_Vitals_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5789732541367AF986ADB61 /* Pods_Vitals_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		23779BD1CCF7652FB5336B83 /* Pods_Vitals_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Vitals_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D6C3FEB42220C2C6937EE50 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		478A9F21BA6943718B4196CC /* Pods-Vitals_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vitals_Example.release.xcconfig"; path = "Target Support Files/Pods-Vitals_Example/Pods-Vitals_Example.release.xcconfig"; sourceTree = "<group>"; };
+		4851CFF52D19A3FA00AF1B8B /* face_landmarker.task */ = {isa = PBXFileReference; lastKnownFileType = file; path = face_landmarker.task; sourceTree = "<group>"; };
 		4F8B11862BE6B9F06B0A5ABE /* libPods-Vitals_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Vitals_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B5699233C06ABFFF16A4E0E /* Pods-Vitals_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Vitals_Example.debug.xcconfig"; path = "Target Support Files/Pods-Vitals_Example/Pods-Vitals_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* Vitals_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vitals_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -30,6 +31,7 @@
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
+		A5789732541367AF986ADB61 /* Pods_Vitals_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Vitals_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEEEAB5D2D1218D000E0CB00 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		CEEEAB5F2D12194600E0CB00 /* CameraFeedService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraFeedService.swift; sourceTree = "<group>"; };
 		EDB082BDA1398363C345AE17 /* Vitals.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Vitals.podspec; path = ../Vitals.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -41,7 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F145FB61E40B3A7073707068 /* Pods_Vitals_Example.framework in Frameworks */,
+				DFB60575D547480EB2B6F261 /* Pods_Vitals_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -80,6 +82,7 @@
 		607FACD21AFB9204008FA782 /* Example for Vitals */ = {
 			isa = PBXGroup;
 			children = (
+				4851CFF52D19A3FA00AF1B8B /* face_landmarker.task */,
 				607FACD51AFB9204008FA782 /* AppDelegate.swift */,
 				CEEEAB5F2D12194600E0CB00 /* CameraFeedService.swift */,
 				CEEEAB5D2D1218D000E0CB00 /* CameraViewController.swift */,
@@ -131,7 +134,7 @@
 			isa = PBXGroup;
 			children = (
 				4F8B11862BE6B9F06B0A5ABE /* libPods-Vitals_Tests.a */,
-				23779BD1CCF7652FB5336B83 /* Pods_Vitals_Example.framework */,
+				A5789732541367AF986ADB61 /* Pods_Vitals_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4851CFF62D19A3FA00AF1B8B /* face_landmarker.task in Resources */,
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,

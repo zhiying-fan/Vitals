@@ -14663,812 +14663,812 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/InferenceConfigurationManager.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/InferenceConfigurationManager.swift",
       "kind": "StringLiteral",
       "offset": 1718,
       "length": 45,
       "value": "\"com.google.mediapipe.inferenceConfigChanged\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 758,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 796,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 937,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 947,
       "length": 3,
       "value": "127"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 951,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 964,
       "length": 3,
       "value": "139"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 968,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 982,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1042,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1045,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1059,
       "length": 3,
       "value": "181"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1063,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1076,
       "length": 3,
       "value": "203"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1080,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1094,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1153,
       "length": 2,
       "value": "18"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1156,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1170,
       "length": 3,
       "value": "181"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1174,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1187,
       "length": 3,
       "value": "203"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1191,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1205,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1261,
       "length": 3,
       "value": "279"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1265,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1279,
       "length": 3,
       "value": "171"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1283,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1296,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1306,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1361,
       "length": 3,
       "value": "279"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1365,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1379,
       "length": 3,
       "value": "171"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1383,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1396,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1406,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1458,
       "length": 3,
       "value": "176"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1462,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1476,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1485,
       "length": 2,
       "value": "32"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1488,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1502,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "IntegerLiteral",
       "offset": 1537,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1588,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1640,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "FloatLiteral",
       "offset": 1688,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "StringLiteral",
       "offset": 1761,
       "length": 17,
       "value": "\"face_landmarker\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/DefaultConstants.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/DefaultConstants.swift",
       "kind": "StringLiteral",
       "offset": 1788,
       "length": 6,
       "value": "\"task\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Box.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Box.swift",
       "kind": "IntegerLiteral",
       "offset": 135,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Box.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Box.swift",
       "kind": "IntegerLiteral",
       "offset": 156,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Box.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Box.swift",
       "kind": "IntegerLiteral",
       "offset": 179,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Box.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Box.swift",
       "kind": "IntegerLiteral",
       "offset": 203,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Log.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Log.swift",
       "kind": "BooleanLiteral",
       "offset": 193,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/NetworkService.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 150,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/NetworkService.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/NetworkService.swift",
       "kind": "StringLiteral",
       "offset": 171,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/BlockingQueue.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/BlockingQueue.swift",
       "kind": "BooleanLiteral",
       "offset": 1554,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "Array",
       "offset": 479,
       "length": 109,
       "value": "[1, 234, 127, 93, 21, 103, 109, 10, 338, 332, 251, 356, 454, 323, 288, 365, 378, 148, 152, 377, 149, 136, 58]"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 783,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1128,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1135,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1169,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1176,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1211,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1218,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1256,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 1263,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "FloatLiteral",
       "offset": 1390,
       "length": 3,
       "value": "0.3"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2171,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2192,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2757,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2836,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2877,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 2995,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 3120,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 3485,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 3575,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 3603,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 3697,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "Array",
       "offset": 4125,
       "length": 9,
       "value": "[0, 0, 0]"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4151,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4225,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4352,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4364,
       "length": 2,
       "value": "-1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4531,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4575,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4655,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4707,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4763,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4799,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4836,
       "length": 4,
       "value": "0xff"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4859,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4894,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4900,
       "length": 4,
       "value": "0xff"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4923,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4958,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/FaceHelper.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/FaceHelper.swift",
       "kind": "IntegerLiteral",
       "offset": 4964,
       "length": 4,
       "value": "0xff"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 38,
       "value": "\"com.vitals.cacheSolution.handleQueue\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "StringLiteral",
       "offset": 494,
       "length": 37,
       "value": "\"com.vitals.cacheSolution.cacheQueue\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 639,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 678,
       "length": 2,
       "value": "30"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 683,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 717,
       "length": 5,
       "value": "20000"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 758,
       "length": 4,
       "value": "3000"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 798,
       "length": 5,
       "value": "30000"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "BooleanLiteral",
       "offset": 911,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 987,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 1026,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "IntegerLiteral",
       "offset": 1070,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "BooleanLiteral",
       "offset": 1102,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "BooleanLiteral",
       "offset": 1136,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/CacheSolution.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/CacheSolution.swift",
       "kind": "StringLiteral",
       "offset": 1440,
       "length": 53,
       "value": "\"com.vitals.cacheSolution.faceLandmarkerServiceQueue\""
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/ByteBuffer.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/ByteBuffer.swift",
       "kind": "IntegerLiteral",
       "offset": 5140,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Frame.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Frame.swift",
       "kind": "IntegerLiteral",
       "offset": 393,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Frame.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Frame.swift",
       "kind": "IntegerLiteral",
       "offset": 506,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Frame.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Frame.swift",
       "kind": "IntegerLiteral",
       "offset": 534,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Frame.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Frame.swift",
       "kind": "IntegerLiteral",
       "offset": 560,
       "length": 1,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/zhiying\/Documents\/Vitals\/Vitals\/Vitals.swift",
+      "filePath": "\/Users\/huijiehe\/Desktop\/zhiying\/VitalsSDK\/Vitals\/Vitals.swift",
       "kind": "BooleanLiteral",
       "offset": 1558,
       "length": 4,

@@ -14,7 +14,7 @@
 		</data>
 		<key>Modules/Vitals.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		zSg+YC2p/TAkxZ0IKXieIIP2u0Q=
+		ACUI9JsWQrkLz0bBFdYxaLaPS6Q=
 		</data>
 		<key>Modules/Vitals.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/Vitals.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yDnFcoXBcuvxyYQenLmoHJyDXUI=
+		7h6UjTFuFqOtRuxvL05MvqI33i8=
 		</data>
 		<key>Modules/Vitals.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		zSg+YC2p/TAkxZ0IKXieIIP2u0Q=
+		ACUI9JsWQrkLz0bBFdYxaLaPS6Q=
 		</data>
 		<key>Modules/Vitals.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -50,15 +50,11 @@
 		</data>
 		<key>Modules/Vitals.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+68ALmGd/MdJQrNlxvsP5QEcUBM=
+		0FY49z0+En1i7AtBreL1WXAnkVM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		sk/hKp2IN/o037o42el0M53AHBY=
-		</data>
-		<key>face_landmarker.task</key>
-		<data>
-		scrLYYJDcIanI0qfx33gSZ0YBNo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -78,11 +74,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zSg+YC2p/TAkxZ0IKXieIIP2u0Q=
+			ACUI9JsWQrkLz0bBFdYxaLaPS6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Wi51dzkt+Q2gpzx6sNKn7A4bVdmRtGO+KZOqVH2mWA=
+			7QlnzjdVg8vcRjZ/gDDrV4Iug1wmmN8c8o+IHvefFH4=
 			</data>
 		</dict>
 		<key>Modules/Vitals.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -122,22 +118,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yDnFcoXBcuvxyYQenLmoHJyDXUI=
+			7h6UjTFuFqOtRuxvL05MvqI33i8=
 			</data>
 			<key>hash2</key>
 			<data>
-			yPzF/XeNLeLEBpjgT96+ezSTlnARq4zm3m9SuT3Zo+U=
+			phyQ8ZTbTfVdyI0B6QSwDSE3c8nW44P4tZrU9fbaozo=
 			</data>
 		</dict>
 		<key>Modules/Vitals.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zSg+YC2p/TAkxZ0IKXieIIP2u0Q=
+			ACUI9JsWQrkLz0bBFdYxaLaPS6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Wi51dzkt+Q2gpzx6sNKn7A4bVdmRtGO+KZOqVH2mWA=
+			7QlnzjdVg8vcRjZ/gDDrV4Iug1wmmN8c8o+IHvefFH4=
 			</data>
 		</dict>
 		<key>Modules/Vitals.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -177,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+68ALmGd/MdJQrNlxvsP5QEcUBM=
+			0FY49z0+En1i7AtBreL1WXAnkVM=
 			</data>
 			<key>hash2</key>
 			<data>
-			swfpCk58R6UHQoJOYR/01sIaS/OhdVxeo3zx4we3bwo=
+			EHkhY0UTluVFqnHHGWHlrMhpbX2whnxyP8PZ9I+tyFE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -193,17 +189,6 @@
 			<key>hash2</key>
 			<data>
 			y/hGAn37Nqe9Vkt30mMsqhcgItlTcUk2ciHm/e4HgfE=
-			</data>
-		</dict>
-		<key>face_landmarker.task</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			scrLYYJDcIanI0qfx33gSZ0YBNo=
-			</data>
-			<key>hash2</key>
-			<data>
-			ZBhOIpsmMQe8K4BMZiXbE0H/K7cxh0sLzC/mVE4Lyf8=
 			</data>
 		</dict>
 	</dict>

@@ -27,7 +27,6 @@ TODO: Add long description of the pod here.
   s.source           = { :http => 'https://github.com/zhiying-fan/Vitals/releases/download/0.0.1/Vitals.xcframework.zip' }
 
   s.ios.deployment_target = '13.0'
-
   s.static_framework = true
   s.vendored_frameworks = 'Vitals.xcframework'
   
